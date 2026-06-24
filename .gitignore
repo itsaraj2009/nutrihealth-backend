@@ -13,8 +13,6 @@ target/
 .springBeans
 .sts4-cache
 
-# Secret config files
-application.properties
 
 # Build folder
 target/
