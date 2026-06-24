@@ -15,7 +15,6 @@ target/
 
 # Secret config files
 application.properties
-application-prod.properties
 
 # Build folder
 target/
